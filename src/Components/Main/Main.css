@@ -1,0 +1,17 @@
+.Card-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.single-card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  /* width: 800px; */
+  margin-left: 20px;
+  grid-gap: 10px;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
