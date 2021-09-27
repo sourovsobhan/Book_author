@@ -18,10 +18,8 @@ const Main = () => {
       .then((res) => res.json())
       .then((data) => setAuthors(data));
   }, []);
-
+// added salary count in ui
 const salaryCount = capturedata.reduce((prve,current)=>prve + current.salary,0);
-
-
 
   return (
     <div>
