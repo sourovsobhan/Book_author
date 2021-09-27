@@ -6,7 +6,8 @@
     "book": "Peril Hardcover ",
     "age": 40,
     "country": "Us",
-    "published": 2000
+    "salary": 1000,
+    "published": 1998
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "book": "jungle ",
     "age": 46,
     "country": "Holland",
-    "published": 2000
+    "salary": 9000,
+    "published": 1997
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "book": "Covering me ",
     "age": 48,
     "country": "Itally",
-    "published": 2000
+    "salary": 1200,
+    "published": 2005
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "book": "hallown ",
     "age": 35,
     "country": "japan",
-    "published": 2000
+    "salary": 8000,
+    "published": 1999
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "book": "Just see ",
     "age": 38,
     "country": "Hong-kong",
-    "published": 2000
+    "salary": 1100,
+    "published": 2005
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "book": "Peril Haker ",
     "age": 40,
     "country": "Chaina",
-    "published": 2000
+    "salary": 1300,
+    "published": 2003
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "book": "cover me ",
     "age": 49,
     "country": "Us",
-    "published": 2000
+    "salary": 1400,
+    "published": 2001
   },
   {
     "id": 8,
@@ -69,16 +76,18 @@
     "book": "Perrol Hardcover ",
     "age": 46,
     "country": "Us",
-    "published": 2000
+    "salary": 1450,
+    "published": 2004
   },
   {
     "id": 9,
-    "name": "bod Woodward",
+    "name": "Maila Taylor",
     "img": "https://images-na.ssl-images-amazon.com/images/I/61GpdRF-ZwL._SY600_.jpg",
     "book": "Hen Cock ",
     "age": 40,
     "country": "England",
-    "published": 2000
+    "salary": 1650,
+    "published": 2003
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "book": "Adventure-in-jungle ",
     "age": 45,
     "country": "Denmark",
-    "published": 2000
+    "salary": 1650,
+    "published": 1998
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "book": "Peril Hardcover ",
     "age": 42,
     "country": "Garmany",
-    "published": 2000
+    "salary": 1250,
+    "published": 2001
   },
   {
     "id": 12,
@@ -105,6 +116,7 @@
     "book": "Peril Hardcover ",
     "age": 43,
     "country": "UK",
-    "published": 2000
+    "salary": 1150,
+    "published": 2002
   }
 ]
