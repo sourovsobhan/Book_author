@@ -1,6 +1,6 @@
 # visit my book publisher site
 
-This project was bootstrapped with [Create React App]('https://sharp-swirles-1b433f.netlify.app/').
+This project was bootstrapped with [Create React App]("https://sharp-swirles-1b433f.netlify.app/").
 
 ## Top 10 Book publisher
 
