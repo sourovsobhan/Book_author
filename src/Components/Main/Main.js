@@ -10,7 +10,7 @@ const Main = () => {
   const handleClick = (author) => {
     const newAuthor = [...capturedata, author];
     setCapturedata(newAuthor);
-    console.log(capturedata);
+   
   };
 
   useEffect(() => {

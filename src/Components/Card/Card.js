@@ -1,7 +1,7 @@
 import React from "react";
 import "./Card.css";
 const Card = (props) => {
-  //   console.log(props);
+ 
 
   const { name, img, book, age, country, published, salary } = props.author;
   return (
